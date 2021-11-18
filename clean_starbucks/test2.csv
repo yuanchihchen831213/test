@@ -1,0 +1,7 @@
+x,A,B,C,D
+1,[{'dayName': 'Today', 'hours': '5:30 AM to 8:00 PM', 'open': True, 'holiday': ''
+2,
+3,[{'dayName': 'Today', 'hours': '5:00 AM to 8:00 PM', 'open': True, 'holiday': ''
+4,
+5,'dayName': 'Tomorrow', 'hours': '5:00 AM to 8:00 PM', 'open': True, 'holiday': ''
+6,,Closed
